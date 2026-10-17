@@ -1,0 +1,121 @@
+﻿property_id,host_id,property_name,neighbourhood,borough,room_type,nightly_price
+5001,1009,Cozy Private Room in Historic Brownstone,Greenpoint,Brooklyn,Entire home/apt,171
+5002,1019,Luxury Loft with Skyline View,Hell's Kitchen,Manhattan,Private room,75
+5003,1035,Centrally Located Private Room in Historic Brownstone,Williamsburg,Brooklyn,Entire home/apt,219
+5004,1005,Minimalist Private Room in Historic Brownstone,Bedford-Stuyvesant,Brooklyn,Entire home/apt,160
+5005,1012,Elegant Haven in Downtown,Upper West Side,Manhattan,Private room,117
+5006,1004,Centrally Located Private Room in Historic Brownstone,Midtown,Manhattan,Entire home/apt,301
+5007,1029,Charming Private Room in Historic Brownstone,East Village,Manhattan,Private room,109
+5008,1010,Centrally Located Haven in Downtown,Williamsburg,Brooklyn,Private room,126
+5009,1016,Sunny Loft with Skyline View,East Village,Manhattan,Shared room,53
+5010,1028,Elegant Apartment near Park,Midtown,Manhattan,Entire home/apt,238
+5011,1021,Elegant Suite with Balcony,Chelsea,Manhattan,Entire home/apt,214
+5012,1058,Centrally Located Loft with Skyline View,Bedford-Stuyvesant,Brooklyn,Entire home/apt,246
+5013,1037,Elegant Loft with Skyline View,Bedford-Stuyvesant,Brooklyn,Private room,89
+5014,1061,Centrally Located Loft with Skyline View,Hell's Kitchen,Manhattan,Entire home/apt,329
+5015,1047,Quiet Apartment near Park,Bedford-Stuyvesant,Brooklyn,Entire home/apt,311
+5016,1044,Luxury Suite with Balcony,Bushwick,Brooklyn,Entire home/apt,281
+5017,1064,Spacious Private Room in Historic Brownstone,Williamsburg,Brooklyn,Private room,88
+5018,1055,Cozy Apartment near Park,Astoria,Queens,Entire home/apt,348
+5019,1057,Elegant Haven in Downtown,East Village,Manhattan,Private room,50
+5020,1003,Quiet Studio in Heart of NYC,Harlem,Manhattan,Entire home/apt,242
+5021,1032,Sunny Studio in Heart of NYC,Harlem,Manhattan,Private room,69
+5022,1025,Sunny Apartment near Park,Hell's Kitchen,Manhattan,Private room,74
+5023,1042,Sunny Loft with Skyline View,Midtown,Manhattan,Entire home/apt,253
+5024,1013,Luxury Studio in Heart of NYC,Bedford-Stuyvesant,Brooklyn,Private room,122
+5025,1049,Cozy Studio in Heart of NYC,Harlem,Manhattan,Private room,52
+5026,1065,Cozy Studio in Heart of NYC,Crown Heights,Brooklyn,Entire home/apt,283
+5027,1017,Quiet Apartment near Park,SoHo,Manhattan,Shared room,35
+5028,1022,Sunny Loft with Skyline View,Bedford-Stuyvesant,Brooklyn,Entire home/apt,285
+5029,1062,Spacious Private Room in Historic Brownstone,Bedford-Stuyvesant,Brooklyn,Entire home/apt,184
+5030,1033,Cozy Private Room in Historic Brownstone,Midtown,Manhattan,Entire home/apt,202
+5031,1027,Quiet Loft with Skyline View,Harlem,Manhattan,Entire home/apt,157
+5032,1007,Charming Studio in Heart of NYC,Greenpoint,Brooklyn,Private room,77
+5033,1043,Cozy Loft with Skyline View,Flushing,Queens,Private room,96
+5034,1034,Elegant Studio in Heart of NYC,Midtown,Manhattan,Entire home/apt,320
+5035,1056,Cozy Private Room in Historic Brownstone,Bedford-Stuyvesant,Brooklyn,Private room,96
+5036,1014,Spacious Suite with Balcony,East Village,Manhattan,Entire home/apt,129
+5037,1052,Quiet Apartment near Park,Flushing,Queens,Entire home/apt,207
+5038,1060,Modern Loft with Skyline View,Crown Heights,Brooklyn,Entire home/apt,337
+5039,1006,Sunny Studio in Heart of NYC,Greenpoint,Brooklyn,Entire home/apt,319
+5040,1063,Sunny Studio in Heart of NYC,Midtown,Manhattan,Entire home/apt,252
+5041,1038,Charming Studio in Heart of NYC,SoHo,Manhattan,Private room,62
+5042,1045,Charming Loft with Skyline View,Crown Heights,Brooklyn,Entire home/apt,205
+5043,1030,Luxury Apartment near Park,Bedford-Stuyvesant,Brooklyn,Private room,83
+5044,1015,Elegant Studio in Heart of NYC,Bushwick,Brooklyn,Entire home/apt,272
+5045,1051,Minimalist Apartment near Park,Bedford-Stuyvesant,Brooklyn,Entire home/apt,270
+5046,1024,Elegant Haven in Downtown,Crown Heights,Brooklyn,Entire home/apt,231
+5047,1040,Luxury Suite with Balcony,Astoria,Queens,Entire home/apt,204
+5048,1008,Spacious Loft with Skyline View,Upper West Side,Manhattan,Private room,52
+5049,1031,Quiet Suite with Balcony,Midtown,Manhattan,Private room,57
+5050,1020,Elegant Suite with Balcony,Greenpoint,Brooklyn,Entire home/apt,293
+5051,1050,Cozy Private Room in Historic Brownstone,Hell's Kitchen,Manhattan,Entire home/apt,309
+5052,1036,Luxury Loft with Skyline View,Hell's Kitchen,Manhattan,Private room,88
+5053,1001,Spacious Loft with Skyline View,Chelsea,Manhattan,Private room,100
+5054,1048,Luxury Apartment near Park,Chelsea,Manhattan,Entire home/apt,141
+5055,1011,Cozy Suite with Balcony,Crown Heights,Brooklyn,Private room,94
+5056,1026,Elegant Private Room in Historic Brownstone,Williamsburg,Brooklyn,Entire home/apt,322
+5057,1054,Charming Haven in Downtown,Midtown,Manhattan,Entire home/apt,270
+5058,1023,Charming Haven in Downtown,SoHo,Manhattan,Private room,98
+5059,1046,Luxury Private Room in Historic Brownstone,Williamsburg,Brooklyn,Entire home/apt,199
+5060,1018,Quiet Suite with Balcony,Greenpoint,Brooklyn,Private room,100
+5061,1053,Elegant Suite with Balcony,Bushwick,Brooklyn,Private room,77
+5062,1041,Quiet Loft with Skyline View,East Village,Manhattan,Private room,78
+5063,1002,Elegant Haven in Downtown,Midtown,Manhattan,Entire home/apt,306
+5064,1039,Charming Apartment near Park,Astoria,Queens,Entire home/apt,221
+5065,1059,Cozy Loft with Skyline View,Chelsea,Manhattan,Private room,119
+5066,1024,Spacious Private Room in Historic Brownstone,Astoria,Queens,Private room,127
+5067,1026,Luxury Loft with Skyline View,Flushing,Queens,Private room,77
+5068,1028,Cozy Private Room in Historic Brownstone,Bedford-Stuyvesant,Brooklyn,Private room,123
+5069,1058,Minimalist Haven in Downtown,East Village,Manhattan,Entire home/apt,229
+5070,1004,Centrally Located Suite with Balcony,Bushwick,Brooklyn,Shared room,33
+5071,1060,Spacious Suite with Balcony,Williamsburg,Brooklyn,Entire home/apt,335
+5072,1049,Modern Loft with Skyline View,Bedford-Stuyvesant,Brooklyn,Entire home/apt,249
+5073,1057,Minimalist Studio in Heart of NYC,Chelsea,Manhattan,Entire home/apt,229
+5074,1005,Luxury Haven in Downtown,Midtown,Manhattan,Entire home/apt,183
+5075,1057,Spacious Loft with Skyline View,Flushing,Queens,Entire home/apt,148
+5076,1061,Minimalist Private Room in Historic Brownstone,Long Island City,Queens,Entire home/apt,208
+5077,1010,Quiet Haven in Downtown,Williamsburg,Brooklyn,Private room,96
+5078,1034,Elegant Haven in Downtown,Bushwick,Brooklyn,Private room,64
+5079,1010,Charming Suite with Balcony,Long Island City,Queens,Entire home/apt,285
+5080,1029,Elegant Studio in Heart of NYC,Crown Heights,Brooklyn,Entire home/apt,216
+5081,1011,Cozy Apartment near Park,Long Island City,Queens,Private room,98
+5082,1004,Spacious Haven in Downtown,Chelsea,Manhattan,Private room,121
+5083,1049,Spacious Studio in Heart of NYC,Chelsea,Manhattan,Entire home/apt,159
+5084,1004,Elegant Private Room in Historic Brownstone,Astoria,Queens,Entire home/apt,263
+5085,1024,Modern Loft with Skyline View,Upper West Side,Manhattan,Entire home/apt,221
+5086,1056,Cozy Apartment near Park,Chelsea,Manhattan,Entire home/apt,227
+5087,1035,Elegant Haven in Downtown,Bedford-Stuyvesant,Brooklyn,Entire home/apt,153
+5088,1038,Quiet Private Room in Historic Brownstone,Crown Heights,Brooklyn,Entire home/apt,246
+5089,1050,Luxury Haven in Downtown,Greenpoint,Brooklyn,Entire home/apt,253
+5090,1026,Charming Studio in Heart of NYC,Flushing,Queens,Private room,102
+5091,1018,Quiet Suite with Balcony,Hell's Kitchen,Manhattan,Entire home/apt,233
+5092,1059,Centrally Located Studio in Heart of NYC,Long Island City,Queens,Entire home/apt,268
+5093,1046,Minimalist Apartment near Park,Harlem,Manhattan,Entire home/apt,218
+5094,1011,Charming Loft with Skyline View,Midtown,Manhattan,Private room,78
+5095,1009,Cozy Suite with Balcony,Midtown,Manhattan,Private room,51
+5096,1026,Cozy Suite with Balcony,Flushing,Queens,Entire home/apt,216
+5097,1008,Sunny Studio in Heart of NYC,Flushing,Queens,Private room,75
+5098,1040,Cozy Studio in Heart of NYC,Long Island City,Queens,Entire home/apt,163
+5099,1039,Modern Private Room in Historic Brownstone,SoHo,Manhattan,Shared room,61
+5100,1006,Charming Apartment near Park,Bushwick,Brooklyn,Entire home/apt,137
+5101,1010,Sunny Suite with Balcony,East Village,Manhattan,Entire home/apt,217
+5102,1041,Minimalist Private Room in Historic Brownstone,Bushwick,Brooklyn,Entire home/apt,149
+5103,1022,Cozy Suite with Balcony,Bushwick,Brooklyn,Entire home/apt,227
+5104,1051,Quiet Loft with Skyline View,Harlem,Manhattan,Entire home/apt,142
+5105,1037,Cozy Apartment near Park,Harlem,Manhattan,Entire home/apt,167
+5106,1045,Elegant Studio in Heart of NYC,SoHo,Manhattan,Private room,104
+5107,1062,Luxury Suite with Balcony,Greenpoint,Brooklyn,Entire home/apt,331
+5108,1015,Modern Haven in Downtown,East Village,Manhattan,Private room,72
+5109,1024,Luxury Haven in Downtown,Williamsburg,Brooklyn,Private room,89
+5110,1063,Centrally Located Loft with Skyline View,East Village,Manhattan,Entire home/apt,183
+5111,1029,Cozy Studio in Heart of NYC,Hell's Kitchen,Manhattan,Entire home/apt,191
+5112,1025,Quiet Haven in Downtown,Flushing,Queens,Private room,63
+5113,1016,Spacious Suite with Balcony,East Village,Manhattan,Private room,127
+5114,1050,Cozy Suite with Balcony,Upper West Side,Manhattan,Entire home/apt,121
+5115,1005,Centrally Located Private Room in Historic Brownstone,Bedford-Stuyvesant,Brooklyn,Private room,53
+5116,1022,Spacious Private Room in Historic Brownstone,Harlem,Manhattan,Entire home/apt,335
+5117,1033,Minimalist Apartment near Park,East Village,Manhattan,Private room,58
+5118,1040,Centrally Located Haven in Downtown,Williamsburg,Brooklyn,Entire home/apt,135
+5119,1002,Charming Suite with Balcony,Flushing,Queens,Entire home/apt,215
+5120,1036,Cozy Private Room in Historic Brownstone,Hell's Kitchen,Manhattan,Entire home/apt,279
